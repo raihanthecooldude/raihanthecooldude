@@ -1,10 +1,9 @@
 ### Hi there, I am Raihan Gafur 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=radical)
+Some info about my profile and currently most used languages are:
 
-My most used languages are:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 <!--
 **raihanthecooldude/raihanthecooldude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
