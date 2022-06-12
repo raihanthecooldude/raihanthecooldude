@@ -6,7 +6,7 @@ Some info about my profile and currently most used languages are:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary)
 
 
-<b>Thanksgiving:</b> The profile stats has been developed by <a href="https://github.com/anuraghazra" target="_blank">@anuraghazra</a> and you can also add these from <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">here</a>!
+<b>Credit:</b> The profile stats has been developed by <a href="https://github.com/anuraghazra" target="_blank">@anuraghazra</a> and you can also add those in your github profile from <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">here</a>!
 
 
 
