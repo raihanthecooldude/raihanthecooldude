@@ -1,5 +1,7 @@
 ### Hi there, I am Raihan Gafur 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=radical)
+
 My most used languages are:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
