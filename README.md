@@ -2,7 +2,7 @@
 
 My most used languages are:
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **raihanthecooldude/raihanthecooldude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
