@@ -2,7 +2,8 @@
 
 Some info about my profile and currently most used languages are:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&width=20) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 
 <!--
