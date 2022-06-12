@@ -6,6 +6,12 @@ Some info about my profile and currently most used languages are:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary)
 
 
+Thanksgiving: The profile stats has been developed by @anuraghazra and you can also add these from <a href="https://github.com/anuraghazra/github-readme-stats">here</a>
+
+
+
+
+
 <!--
 **raihanthecooldude/raihanthecooldude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
