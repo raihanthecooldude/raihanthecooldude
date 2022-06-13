@@ -6,7 +6,7 @@ Some info about my profile and currently most used languages are:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true) -->
 
 <a href="#">
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&count_private=true" />
+  <img height="163" align="left" src="https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&count_private=true" />
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&langs_count=5&exclude_repo=JavaPackageLibrary,Foodos-Laravel&count_private=true" />
