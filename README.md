@@ -6,10 +6,10 @@ Some info about my profile and currently most used languages are:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true)
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true" />
 </a>
 
 
