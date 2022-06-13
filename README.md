@@ -2,14 +2,14 @@
 
 Some info about my profile and currently most used languages are:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true) -->
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary,Foodos-Laravel&count_private=true" />
 </a>
 
 
