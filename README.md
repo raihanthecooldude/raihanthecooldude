@@ -1,6 +1,12 @@
-### Hi there, I am Raihan Gafur 👋
+### <h1>Hi there, I am Raihan Gafur 👋 </h1>
+<hr>
 
-Some info about my profile and currently most used languages are:
+I'm a web developer from Bangladesh and currently working at [DeliveryHobe!](https://deliveryhobe.com). I primarily code in NestJS and Node.JS, and have recently begun working with Docker and AWS EC2. I am always learning.
+
+### Quick overview 🔥
+<hr>
+
+Some info about my git profile and currently most used languages are:
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true) -->
