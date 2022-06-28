@@ -8,7 +8,7 @@ I'm a web developer from Bangladesh and currently working at [DeliveryHobe!](htt
 
 Some info about my git profile and currently most used languages are:
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&count_private=true) 
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanthecooldude&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanthecooldude&layout=compact&theme=radical&langs_count=5&exclude_repo=JavaPackageLibrary&count_private=true) -->
 
 <a href="#">
