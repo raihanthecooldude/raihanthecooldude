@@ -1,7 +1,7 @@
 ### <h2>Hi there, I am Raihan Gafur 👋 </h2>
 
 
-I'm a web developer from Bangladesh and currently working at [DeliveryHobe](https://deliveryhobe.com). I primarily code in NestJS, Express.JS and Node.JS, and have recently begun working with Docker and AWS EC2. I am always learning.
+I'm a backend focused web developer from Bangladesh and currently working at [DeliveryHobe](https://deliveryhobe.com). I primarily code in NestJS, Express.JS and Node.JS, and have recently begun working with Docker and AWS EC2. I am always learning.
 
 ### <h2>Quick overview ⚡ </h2>
 
