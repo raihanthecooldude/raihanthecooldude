@@ -1,9 +1,22 @@
 ### <h2>Hi there, I am Raihan Gafur 👋 </h2>
 
 
-I'm a backend focused web developer from Bangladesh and currently working at [DeliveryHobe](https://deliveryhobe.com). I primarily code in NestJS, Express.JS and Node.JS, and have recently begun working with Docker and AWS EC2. I am always learning.
+Innovative tech professional dedicated to crafting robust solutions, skilled in software development, system architecture, and project management. Proven track record of high-impact solutions in Gaming, BookingTech, AdTech, ECommerce and EdTech with a strategic mindset to problem-solving. Eager to contribute expertise in dynamic, challenging tech environments.
 
-### <h2>Quick overview ⚡ </h2>
+I primarily code in Javascript based backend technologies like Node.js, Express.js, Nestjs, but also can code in Next.js, React.js.
+
+Worked on one research paper on the blockchain, one book chapter on Securing Social Networks in Cyberspace, and one survey research on Determination of Causes of Deaths by Verbal Autopsy (VA). 
+ 
+Open to doing any research collaboration, work, or thesis-paper work in Machine Learning, Data Science, CyberPsychology, DeepFake, HCI, Blockchain. So feel free to knock me or mail me at <a href="mailto:raihan.gafur.49@gmail.com" target="_blank">raihan.gafur.49@gmail.com</a>.
+
+### <h2>Quick Links ⚡ </h2>
+<ol>
+  <li><a href="https://raihanthecooldude.com/" target="_blank">Website</a></li>
+  <li><a href="https://www.linkedin.com/in/raihanthecooldude/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://leetcode.com/raihanthecooldude/" target="_blank">LeetCode</a></li>
+</ol>
+
+### <h2>Quick Overview ⚡ </h2>
 
 <!-- 🔥 -->
 
