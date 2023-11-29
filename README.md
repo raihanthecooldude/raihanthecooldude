@@ -9,7 +9,7 @@ Worked on one research paper on the blockchain, one book chapter on Securing Soc
  
 Open to doing any research collaboration, work, or thesis-paper work in Machine Learning, Data Science, CyberPsychology, DeepFake, HCI, Blockchain. So feel free to knock me or mail me at <a href="mailto:raihan.gafur.49@gmail.com" target="_blank">raihan.gafur.49@gmail.com</a>.
 
-### <h2>Quick Links ⚡ </h2>
+### <h2>Quick Links 🔥 </h2>
 <ol>
   <li><a href="https://raihanthecooldude.com/" target="_blank">Website</a></li>
   <li><a href="https://www.linkedin.com/in/raihanthecooldude/" target="_blank">LinkedIn</a></li>
