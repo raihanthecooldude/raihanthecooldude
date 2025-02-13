@@ -16,7 +16,7 @@ Open to doing any research collaboration, work, or thesis-paper work in Machine 
   <li><a href="https://leetcode.com/raihanthecooldude/" target="_blank">LeetCode</a></li>
 </ol>
 
-### <h2>Quick Overview ⚡ </h2>
+<!-- ### <h2>Quick Overview ⚡ </h2> -->
 
 <!-- 🔥 -->
 
