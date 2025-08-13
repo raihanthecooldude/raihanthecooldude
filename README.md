@@ -3,18 +3,38 @@
 
 Innovative tech professional dedicated to crafting robust solutions, skilled in software development, system architecture, and project management. Proven track record of high-impact solutions in Gaming, BookingTech, AdTech, ECommerce and EdTech with a strategic mindset to problem-solving. Eager to contribute expertise in dynamic, challenging tech environments.
 
-I primarily code in Javascript based backend technologies like Node.js, Express.js, Nestjs, but also can code in Next.js, React.js.
+<hr>
+
+### The projects I have worked on: 
+<ul>
+  <li>Edtech: <a href="https://www.linkedin.com/company/portechaiedu/" target="_blank">Porte Chai</a></li>
+  <li>E-Commerce: <a href="https://www.deliveryhobe.com/" target="_blank">Delivery Hobe</a></li>
+  <li>Adtech: <a href="https://adshobe.vercel.app/" target="_blank">Ads Hobe</a></li>
+  <li>Booking Tech: 
+    <ul>
+      <li><a href="https://shellbeehaken.com/portfolio/2" target="_blank">Mapage User</a></li>
+      <li><a href="https://shellbeehaken.com/portfolio/3" target="_blank">Mapage Stylist</a></li>
+    </ul>
+  </li>
+  <li>Gaming: <a href="https://jeeto.online/" target="_blank">Jeeto.Online</a></li>
+</ul>
+
+<hr>
+
+I primarily code in JavaScript-based technologies like Node.js, Express.js, Nest.js, Next.js, and React.js.
 
 Worked on one research paper on the blockchain, one book chapter on Securing Social Networks in Cyberspace, and one survey research on Determination of Causes of Deaths by Verbal Autopsy (VA). 
  
-Open to doing any research collaboration, work, or thesis-paper work in Machine Learning, Data Science, CyberPsychology, DeepFake, HCI, Blockchain. So feel free to knock me or mail me at <a href="mailto:raihan.gafur.49@gmail.com" target="_blank">raihan.gafur.49@gmail.com</a>.
+Open to doing any research collaboration, work, or thesis paper work in Machine Learning, Data Science, CyberPsychology, DeepFake, HCI, or Blockchain. Feel free to email me at <a href="mailto:raihan.gafur.49@gmail.com" target="_blank">raihan.gafur.49@gmail.com</a>.
+
+<hr>
 
 ### <h2>Quick Links 🔥 </h2>
-<ol>
+<ul>
   <li><a href="https://raihanthecooldude.com/" target="_blank">Website</a></li>
   <li><a href="https://www.linkedin.com/in/raihanthecooldude/" target="_blank">LinkedIn</a></li>
   <li><a href="https://leetcode.com/raihanthecooldude/" target="_blank">LeetCode</a></li>
-</ol>
+</ul>
 
 <!-- ### <h2>Quick Overview ⚡ </h2> -->
 
