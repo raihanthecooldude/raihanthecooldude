@@ -23,9 +23,9 @@ Innovative tech professional dedicated to crafting robust solutions, skilled in 
 
 I primarily code in JavaScript-based technologies like Node.js, Express.js, Nest.js, Next.js, and React.js.
 
-Worked on one research paper on the blockchain, one book chapter on Securing Social Networks in Cyberspace, and one survey research on Determination of Causes of Deaths by Verbal Autopsy (VA). 
+<!-- Worked on one research paper on the blockchain, one book chapter on Securing Social Networks in Cyberspace, and one survey research on Determination of Causes of Deaths by Verbal Autopsy (VA). -->
  
-Open to doing any research collaboration, work, or thesis paper work in Machine Learning, Data Science, CyberPsychology, DeepFake, HCI, or Blockchain. Feel free to email me at <a href="mailto:raihan.gafur.49@gmail.com" target="_blank">raihan.gafur.49@gmail.com</a>.
+Open to doing any research collaboration, work, or thesis paper work in Machine Learning, Data Science, CyberPsychology, DeepFake, HCI, or Neuroscience. Feel free to email me at <a href="mailto:raihan.gafur.49@gmail.com" target="_blank">raihan.gafur.49@gmail.com</a>.
 
 <hr>
 
