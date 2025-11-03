@@ -17,6 +17,7 @@ Innovative tech professional dedicated to crafting robust solutions, skilled in 
     </ul>
   </li>
   <li>Gaming: <a href="https://jeeto.online/" target="_blank">Jeeto.Online</a></li>
+  <li>Interactive Meeting Enhancement Platform: <a href="https://epicmeets.io/" target="_blank">Epic Meets</a></li>
 </ul>
 
 <hr>
